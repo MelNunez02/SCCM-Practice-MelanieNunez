@@ -1,1 +1,1 @@
-﻿console.log("Hello from SCM Practice!");
+console.log("SCM Practice App Running Smoothly!");
